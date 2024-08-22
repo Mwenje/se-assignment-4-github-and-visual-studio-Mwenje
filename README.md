@@ -27,9 +27,10 @@ some of Github Features are:-
 GitHub encourages collaboration by allowing you to track changes with the benefit of version control. You’ll always have access to your complete history. You can also work with unlimited collaborators on big and small projects and leave messages telling contributors what you did and why. 
 
 References:-
-https://blog.hubspot.com/website/what-is-github-used-for#what-github
-https://www.techtarget.com/searchitoperations/definition/GitHub
-https://github.com/features
+1. https://blog.hubspot.com/website/what-is-github-used-for#what-github
+2. https://www.techtarget.com/searchitoperations/definition/GitHub
+3. https://github.com/features
+4. https://www.coursera.org/articles/what-is-git
 
 What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
 Version Control with Git:
