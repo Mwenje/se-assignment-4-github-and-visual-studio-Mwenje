@@ -24,6 +24,8 @@ some of Github Features are:-
 4. GitHub Copilot- AI tool that assists in writing code by providing context-aware suggestions, which helps developers write code faster and with fewer errors.
 5. Community-GitHub Discussions allows for threaded conversations within repositories, making it easier for communities to collaborate, ask questions, and share knowledge.
 
+GitHub encourages collaboration by allowing you to track changes with the benefit of version control. You’ll always have access to your complete history. You can also work with unlimited collaborators on big and small projects and leave messages telling contributors what you did and why. 
+
 References:-
 https://blog.hubspot.com/website/what-is-github-used-for#what-github
 https://www.techtarget.com/searchitoperations/definition/GitHub
