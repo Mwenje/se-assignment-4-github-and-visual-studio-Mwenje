@@ -2,12 +2,32 @@
 Assignment: GitHub and Visual Studio
 Instructions:
 Answer the following questions based on your understanding of GitHub and Visual Studio. Provide detailed explanations and examples where appropriate.
+[https://blog.hubspot.com/website/what-is-github-used-for#what-github](https://blog.hubspot.com/website/what-is-github-used-for#what-github)
 
 Questions:
 Introduction to GitHub:
 
 What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.
 Repositories on GitHub:
+GitHub is an online software development platform. It's used for storing, tracking, and collaborating on software projects.
+Some of the primary functions of Github are:-
+1. Version Control with Git which is centralized Git repository
+2. Collaboration Tools that enhance colaboration eg Pull Requests
+3. Continuous Deployment (CI/CD)
+4. Documentation
+5. Easy File Management
+
+some of Github Features are:-
+1. Collaborative Coding-Contribute to projects quickly with automatic environment setup.
+2. Automation & CI/CD-allows developers to automate workflows, such as running tests, building code, or deploying applications
+3. Security-Automatically review every change to your codebase and identify vulnerabilities before they reach production.
+4. GitHub Copilot- AI tool that assists in writing code by providing context-aware suggestions, which helps developers write code faster and with fewer errors.
+5. Community-GitHub Discussions allows for threaded conversations within repositories, making it easier for communities to collaborate, ask questions, and share knowledge.
+
+References:-
+https://blog.hubspot.com/website/what-is-github-used-for#what-github
+https://www.techtarget.com/searchitoperations/definition/GitHub
+https://github.com/features
 
 What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
 Version Control with Git:
