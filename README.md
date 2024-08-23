@@ -48,8 +48,19 @@ Steps on creating a New respo:-
 References:-
 1. https://www.simplilearn.com/tutorials/git-tutorial/what-is-a-git-repository
 2. https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
+
 Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers?
 Branching and Merging in GitHub:
+1. Repositories- this are storage space where your project's files and their history are kept this can be local or remote.
+2. Commits-version/snapshot of your project with a message describing the changes made.
+3. Branches-a version of the repository that diverges from the main working project
+4. Merging-a process to put a forked history back together
+5. Pull Requests-It fetches and merges changes on the remote server to your working directory.
+6. Staging Area-space where you can prepare changes before committing them. This allows you to review and selectively choose which changes to include in the next commit.
+
+References:-
+1. https://www.atlassian.com/git/tutorials/why-git
+2. https://www.youtube.com/watch?v=2ReR1YJrNOM
 
 What are branches in GitHub, and why are they important? Describe the process of creating a branch, making changes, and merging it back into the main branch.
 Pull Requests and Code Reviews:
